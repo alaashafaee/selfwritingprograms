@@ -1,0 +1,5 @@
+c:\users\a-alshaf\documents\visual studio 2013\Projects\SelfWritingPrograms\SelfWritingPrograms\bin\Debug\SelfWritingPrograms.exe
+c:\users\a-alshaf\documents\visual studio 2013\Projects\SelfWritingPrograms\SelfWritingPrograms\bin\Debug\SelfWritingPrograms.pdb
+c:\users\a-alshaf\documents\visual studio 2013\Projects\SelfWritingPrograms\SelfWritingPrograms\obj\Debug\SelfWritingPrograms.csprojResolveAssemblyReference.cache
+c:\users\a-alshaf\documents\visual studio 2013\Projects\SelfWritingPrograms\SelfWritingPrograms\obj\Debug\SelfWritingPrograms.exe
+c:\users\a-alshaf\documents\visual studio 2013\Projects\SelfWritingPrograms\SelfWritingPrograms\obj\Debug\SelfWritingPrograms.pdb
